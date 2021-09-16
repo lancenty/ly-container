@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2cX+BAxcuH4O7F4YrWcujOvorJOfn6kM/9c3tpdUtb3ZpMmBS6Wf4MR02K0k0nxmsLRCQz4NEcoSX5JNe1OKsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yayua\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yayua\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
